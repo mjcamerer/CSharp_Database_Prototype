@@ -1,0 +1,12 @@
+c:\users\matt\documents\visual studio 2015\Projects\Database_Prototype\Database_Prototype\bin\Debug\Database_Prototype.exe.config
+c:\users\matt\documents\visual studio 2015\Projects\Database_Prototype\Database_Prototype\obj\Debug\Database_Prototype.csprojResolveAssemblyReference.cache
+c:\users\matt\documents\visual studio 2015\Projects\Database_Prototype\Database_Prototype\obj\Debug\Database_Prototype.Properties.Resources.resources
+c:\users\matt\documents\visual studio 2015\Projects\Database_Prototype\Database_Prototype\obj\Debug\Database_Prototype.csproj.GenerateResource.Cache
+c:\users\matt\documents\visual studio 2015\Projects\Database_Prototype\Database_Prototype\bin\Debug\Database_Prototype.exe
+c:\users\matt\documents\visual studio 2015\Projects\Database_Prototype\Database_Prototype\bin\Debug\Database_Prototype.pdb
+c:\users\matt\documents\visual studio 2015\Projects\Database_Prototype\Database_Prototype\obj\Debug\Database_Prototype.exe
+c:\users\matt\documents\visual studio 2015\Projects\Database_Prototype\Database_Prototype\obj\Debug\Database_Prototype.pdb
+c:\users\matt\documents\visual studio 2015\Projects\Database_Prototype\Database_Prototype\obj\Debug\Database_Prototype.frm_CustomerInfo.resources
+c:\users\matt\documents\visual studio 2015\Projects\Database_Prototype\Database_Prototype\obj\Debug\Database_Prototype.frm_OrderInfo.resources
+c:\users\matt\documents\visual studio 2015\Projects\Database_Prototype\Database_Prototype\obj\Debug\Database_Prototype.frm_Main.resources
+c:\users\matt\documents\visual studio 2015\Projects\Database_Prototype\Database_Prototype\obj\Debug\Database_Prototype.frm_AdvancedCustomerSearch.resources
